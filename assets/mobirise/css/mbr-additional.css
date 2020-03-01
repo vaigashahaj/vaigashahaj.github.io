@@ -1714,6 +1714,9 @@ section.lazy-placeholder:after {
     display: block;
   }
 }
+.cid-rK5El8XGer H2 {
+  text-align: center;
+}
 .cid-rS0rRIrKbO {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1767,6 +1770,9 @@ section.lazy-placeholder:after {
   .cid-rS0rRIrKbO div.left-block.wrapper {
     padding-bottom: 3rem;
   }
+}
+.cid-rS0rRIrKbO H2 {
+  text-align: center;
 }
 .cid-rK5GhJybwG .navbar {
   padding: .5rem 0;
